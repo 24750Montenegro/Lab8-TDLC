@@ -5,7 +5,7 @@ import multiprocessing as mp
 import plotly.graph_objects as go
 
 Iterations = [ 1, 10, 100, 1000, 10000, 100000, 1000000]
-TIMEOUT = 800
+TIMEOUT = 60 #ajustar si se desea intentar ejecución con más tiempo
 
 
 def ejercicio_1 (n):

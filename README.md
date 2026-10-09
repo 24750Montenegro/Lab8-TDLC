@@ -1,7 +1,7 @@
 # Laboratorio No. 8
 ## Video
 
-[Ver video de ejecución](pendiente)
+[Ver video de ejecución](https://youtu.be/vI4_LjDPJyc)
 
 ## Contenido
 
